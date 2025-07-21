@@ -8,7 +8,6 @@ export const metadata: Metadata = {
   title: 'Subscription Intern - Connect Top University Talent with Leading Companies',
   description: 'Revolutionizing internship connections through our subscription-based platform. Fast, affordable, and seamless talent matching with comprehensive support.',
   keywords: 'internships, university talent, student placement, subscription hiring, talent matching',
-  authors: [{ name: 'Subscription Intern' }],
   openGraph: {
     title: 'Subscription Intern - Premier University Talent Platform',
     description: 'Connect with top-tier university talent through our streamlined subscription service.',
